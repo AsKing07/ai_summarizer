@@ -1,6 +1,6 @@
 # AI Summarizer
 
-![AI Summarizer Banner](banner.png)
+
 
 AI Summarizer est une application web qui utilise l'API Chat GPT-4 via RapidAPI pour résumer des textes en langues différentes. Cette application a été développée en utilisant Vite.js et React, avec la mise en page et les styles gérés grâce à Tailwind CSS.
 
