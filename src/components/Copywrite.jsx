@@ -10,14 +10,14 @@ const Copyright = () => {
   const githubUrl = "https://github.com/AsKing07"; // Remplacez par votre URL GitHub
 
   return (
-    <div>
-      <p>
+    <div className="mt-4 w-full max-w-xl justify-center " >
+      <p className="justify-center items-center w-full">
 
-         &copy; {annee} {nom}. Tous droits réservés.{" "}
+         &copy;{annee} {nom} Tous droits réservés.
 
         
         <a href={githubUrl} target="_blank" rel="noopener noreferrer">
-            <FontAwesomeIcon icon={faGithub} /> 
+            <FontAwesomeIcon icon={faGithub} className="text-xl" /> 
         </a>
         
       </p>

@@ -23,7 +23,7 @@ const App = () => {
         <section className="mt-16 w-full max-w-xl">
 
           {/* Ajoutez le sélecteur (dropdown) */}
-          <div className="flex justify-center items-center mb-4">
+          <div className="flex flex-col justify-center items-center mb-4">
             <label className="mr-2">Choisissez :</label>
             <select value={choice} onChange={(e) => setChoice(e.target.value)}>
               <option value="article">Résumer un article par lien</option>
