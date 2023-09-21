@@ -21,7 +21,7 @@ const Hero = () => {
 
         
         <h1 className=' head_text'>
-                Résummez vos articles avec <br className='max-md:hidden'  />
+                Résumez vos articles avec <br className='max-md:hidden'  />
                 <span className='orange_gradient'>OpenAI GPT-4</span>
         </h1>
         <h2 className='desc'>
