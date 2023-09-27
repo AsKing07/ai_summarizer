@@ -9,7 +9,7 @@ AI Summarizer est une application web qui utilise l'API Chat GPT-4 via RapidAPI 
 Vous pouvez accéder à la démo en ligne de AI Summarizer en suivant ce lien : [AI Summarizer Demo](https://ai-summarize-asking.netlify.app)
 
 ## Image
-<img src="project-14.png" alt="image" />
+<img src="project-img14.png" alt="image" />
 
 ## Fonctionnalités
 
